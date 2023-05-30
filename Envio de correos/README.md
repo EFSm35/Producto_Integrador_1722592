@@ -18,10 +18,17 @@ Antes de ejecutar el script, debes realizar la siguiente configuración:
 1. Abre el archivo `correo.py` en un editor de texto.
 2. En la sección "Datos del remitente", reemplaza `"Insertar correo"` por tu dirección de correo electrónico y `"Insertar contraseña"` por la contraseña correspondiente a esa cuenta.
 3. En la sección "Datos del destinatario", reemplaza `"correoelectronico"` por la dirección de correo electrónico del destinatario.
-4. Asegurarse que la imagen `fcfm_cool.png` este en el mismo directorio que el script
+4. Asegurarse que la imagen `fcfm_cool.png` este en el mismo directorio que el script.
 
 ## Uso
 
 Una vez que hayas realizado la configuración necesaria, puedes ejecutar el script en una terminal de la siguiente manera:
 `python correo.py`
+Esto enviará un correo electrónico al destinatario especificado, con el asunto "Prueba de envío (script Python) - matricula". El cuerpo del mensaje será un texto HTML con información sobre la Actividad 12 y tus datos personales. Además, se adjuntará una imagen llamada "FCFM_COOL.jpg" al correo electrónico.
+
+Recuerda que el archivo de imagen debe estar en el mismo directorio que el script `correo.py` para que pueda adjuntarse correctamente.
+
+## Autor
+
+Este script fue desarrollado por [EFSm35](https://github.com/EFSm35).
 
