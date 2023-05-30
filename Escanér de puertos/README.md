@@ -11,7 +11,7 @@ El script scan_portv1 es una herramienta básica de escaneo de puertos en Python
 # [2. Script: scan_portv2](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Escan%C3%A9r%20de%20puertos/scan_portv2.py)
 El script scan_portv2 es otra implementación de escaneo de puertos en Python. Utilizando `socket` e hilos (threads) para realizar conexiones a múltiples puertos en una lista de direcciones IP. Permite detectar los puertos abiertos y cerrados en cada dirección IP del rango establecido.
 
-# [3. Script: scan_portv](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Escan%C3%A9r%20de%20puertos/scan_portv3.py)
+# [3. Script: scan_portv3](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Escan%C3%A9r%20de%20puertos/scan_portv3.py)
 El script scan_portv3 es una versión mejorada del escaneo de puertos utilizando hilos en Python. Permite escanear un rango de puertos en un host especificado y muestra los puertos abiertos utilizando hilos para una mayor eficiencia en el escaneo.
 
 # [4. Script: scan_portv4](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Escan%C3%A9r%20de%20puertos/scan_portv4.py)
