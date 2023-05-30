@@ -16,7 +16,7 @@ Este repositorio contiene scripts de extracción de datos en sitos web desarroll
 - Utiliza el cmdlet Test-Connection para verificar la conectividad con cada dirección IP en el rango.
 - Muestra en pantalla los hosts que responden a la prueba de conexión.
 
-# [scan_alivev2.py](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Scripting%20en%20PowerShell/scan_alivev2.ps2)
+# [scan_alivev2.py](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Scripting%20en%20PowerShell/scan_alivev2.ps1)
 ### El propósito de este script es realizar un escaneo de equipos activos en la subred. Este script proporciona una presentación más clara de la información encontrada por el script.
 ### Esto se logra utilizando una combinación de mensajes de texto y los cmdlets Write-Host y Write-Output para imprimir información en la consola. Además de determinar el gateway y generar el rango de subred, se muestra en pantalla la subred actual y el rango de subred a escanear. Luego, se realiza el escaneo de los hosts activos y se muestra en pantalla cada host que responde a la prueba de conexión.
 
