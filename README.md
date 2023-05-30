@@ -13,7 +13,7 @@ Este repositorio contiene las prácticas realizadas por Eduardo Flores Smith | M
 
 -Cada sección contendrá sus README correspondientes.
 
-## Scripting en PowerShell
+## [Scripting en PowerShell](https://github.com/EFSm35/Producto_Integrador_1722592/tree/main/Scripting%20en%20PowerShell)
 En esta sección, se presentan algunos scripts de powershell los cuales analizan la subred del equipo.
 
 ### -scan_alive1.ps1
@@ -25,7 +25,7 @@ Este script utiliza powershell para determinar los equipos activos en la subred 
 ### -scan_portv1
 Este script de powershell tiene como objetivo escanear los puertos más comunes en equipos de la misma subred.
 
-## Scripting en Bash
+## [Scripting en Bash](https://github.com/EFSm35/Producto_Integrador_1722592/tree/main/Scripting%20en%20Bash)
 En esta seccion vemos diferentes scripts que realizan diversas tareas desde escanear puertos hasta cosas sencillas como mensajes personalizados para el usuario.
 
 ### -bro.sh
@@ -46,7 +46,7 @@ Este script en Bash muestra un mensaje de bienvenida al usuario y muestra inform
 ### -Superscan.sh
 Este script en Bash muestra un menú interactivo, que le permite al usuario, utilizar algunos de los scripts de esta sección
 
-## Webscraping
+## [Webscraping](https://github.com/EFSm35/Producto_Integrador_1722592/tree/main/Webscraping%20y%20an%C3%A1lisis%20de%20metadata)
 
 En esta sección encontrarás scripts que te permitirán realizar webscraping y extraer datos de sitios web. Estos scripts utilizan la biblioteca BeautifulSoup para analizar el contenido HTML y obtener la información deseada.
 
@@ -57,9 +57,9 @@ En esta sección encontrarás scripts que te permitirán realizar webscraping y 
 ### -scrape__quote.py
 - [ScrapeQuote](./webscraping/scrape_quote.py): Este script realiza el webscraping del sitio web: http://quotes.toscrape.com dónde extrae citas y autores para guardarlos en un archivo CSV.
 
-## Escáner de Puertos
+## [Escáner de Puertos](https://github.com/EFSm35/Producto_Integrador_1722592/tree/main/Escan%C3%A9r%20de%20puertos)
 
-Esta sección contiene varios scripts en Python para realizar escaneos de puertos utilizando princpualmente las bibliotecas `nmap` y `socket`.
+Esta sección contiene varios scripts en Python para realizar escaneos de puertos utilizando principalmente las bibliotecas `nmap` y `socket`.
 
 ### -nmapactivad11.py
 
@@ -87,7 +87,7 @@ El script `scan_portv3.py` permite realizar un escaneo de puertos en un rango es
 El script `scan_portv4.py` utiliza la biblioteca `Nmap` para realizar un escaneo de puertos en un host específico.
 
 
-## Envío de Correos
+## [Envío de Correos](https://github.com/EFSm35/Producto_Integrador_1722592/tree/main/Envio%20de%20correos)
 
 Esta sección contiene un script en Python llamado `correo.py` que permite enviar correos electrónicos utilizando el módulo `smtplib` de Python.
 
