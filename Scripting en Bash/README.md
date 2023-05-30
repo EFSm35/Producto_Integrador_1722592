@@ -23,3 +23,7 @@ El script `netdiscover.sh` realiza un escaneo básico de red en Bash, para descu
 
 # [Superscan.sh](https://github.com/EFSm35/Producto_Integrador_1722592/blob/main/Scripting%20en%20Bash/Superscan.sh)
 El script `Superscan.sh` muestra un menú interactivo y ejecuta diferentes scripts dependiendo de la opción seleccionada por el usuario.
+
+## Autor
+
+Este script fue desarrollado por [EFSm35](https://github.com/EFSm35).
