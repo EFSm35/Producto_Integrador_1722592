@@ -52,10 +52,10 @@ En esta sección encontrarás scripts que te permitirán realizar webscraping y 
 
 ### -scrap12.py
 
-- [Scrape12](./webscraping/scrap_12.py): Este script realiza el webscraping del sitio web: https://realpython.github.io/fake-jobs/ donde extrae información específica de los trabajos relacionados con Python.
+- Scrape12: Este script realiza el webscraping del sitio web: https://realpython.github.io/fake-jobs/ donde extrae información específica de los trabajos relacionados con Python.
 
 ### -scrape__quote.py
-- [ScrapeQuote](./webscraping/scrape_quote.py): Este script realiza el webscraping del sitio web: http://quotes.toscrape.com dónde extrae citas y autores para guardarlos en un archivo CSV.
+- ScrapeQuote: Este script realiza el webscraping del sitio web: http://quotes.toscrape.com dónde extrae citas y autores para guardarlos en un archivo CSV.
 
 ## [Escáner de Puertos](https://github.com/EFSm35/Producto_Integrador_1722592/tree/main/Escan%C3%A9r%20de%20puertos)
 
