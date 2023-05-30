@@ -1,2 +1,4 @@
-#Envio de correos
-Esta seccion contiene un script el cual esta encargado de mandar correos
+# Producto_Integrador_1722592
+# Seccion envio de correos
+
+Seccion que contiene la practica envio de correos
