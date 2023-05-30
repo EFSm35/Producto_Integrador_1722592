@@ -17,7 +17,7 @@ correo = "Insertar correo"
 contraseña = "Insertar contraseña"
 
 # Datos del destinatario
-destinatario = "gerardo.bernal@uanl.edu.mx"
+destinatario = "correoelectronico"
 
 
 # mensaje de correo electrónico
